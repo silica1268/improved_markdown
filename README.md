@@ -22,9 +22,9 @@ uses highlight.js for code blocks
 - format: \fformat_name formatted text or code >
 - link: \l https://www.example.com > or \l https://www.example.com link text >
 - embeded content: \e image.jpg > or \e https://www.example.com > or \e https://www.example.com/file.pdf >
-- table:
-\t title
-cell_1 | cell_2 | cell_3
-cell_4 | cell_5 | cell_6
+- table:\
+\t title\
+cell_1 | cell_2 | cell_3\
+cell_4 | cell_5 | cell_6\
     cell_7 | cell_8 >
-- escape: \\ or \> or \|
+- escape: \\\\ or \\> or \\|
