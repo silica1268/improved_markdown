@@ -28,3 +28,8 @@ cell_1 | cell_2 | cell_3\
 cell_4 | cell_5 | cell_6\
     cell_7 | cell_8 >
 - escape: \\\\ or \\> or \\|
+
+## How to Use
+Simply run tohtml.py with an input text file to convert it to HTML.
+
+\* You will need to install highlight.js if you want code highlighting and you can add a custom style.css file that will be automatically inlined in the output HTML.
